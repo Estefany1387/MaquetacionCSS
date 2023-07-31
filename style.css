@@ -1,0 +1,92 @@
+/*index.css*/
+
+header{
+    border: 3px solid rgb(238, 231, 231);
+    width: 1250px;
+}
+#nav{
+    border: 3px solid rgb(238, 231, 231);
+    height: 30px;
+    width: 1250px;
+   
+}
+
+.central{
+    border: 3px solid rgb(238, 231, 231);
+    width: 1250px;
+    height: 300px;
+    margin:0px;
+    padding: 0px;
+    background-image: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg);
+    line-height: 10px;
+
+}
+
+h1{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+h3{
+    position: relative;
+    left: 100px;
+    top: 10px;
+    font-size: 30px;
+    font-family: arial;
+}
+h2{
+    position: absolute;
+    left: 340px;
+    top: 140px;
+    font-size: 60px;
+    font-family: arial;
+}
+
+p{
+    position: absolute;
+    left: 340px;
+    top: 260px;
+    font-size: 30px;
+    font-family: arial ;
+
+}
+.imagen{
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#footer{
+    border: 3px solid rgb(238, 231, 231);
+    height: 50px;
+    width: 1250px;
+    margin: 0;
+  
+}
+h4{
+    position: relative;
+    left: 550px;
+    top: 0px;
+    font-size: 10px; 
+    font-family:helvetica;
+    letter-spacing: 3px;
+    color: rgb(255, 179, 0);
+    font-weight: bold;
+    
+}
+h5{
+
+    position: absolute;
+    left: 400px;
+    top: 407px;
+    font-size: 0.6rem;
+   
+    
+}
+
+h6{
+    position: absolute;
+    left: 540px;
+    top: 399px;
+    font-size: 0.6rem;
+}
